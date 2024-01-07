@@ -4,15 +4,16 @@
   "bin": {
     "lka": "index.js"
   },
-  "description": "",
+  "description": "Get to know Awais via `npx awais`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "RED Team",
   "license": "ISC",
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "clear-any-console": "^1.16.2",
+    "cli-welcome": "^2.2.2"
   }
 }
